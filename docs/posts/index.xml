@@ -8,6 +8,19 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://ivansabart.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>La Cultura de un Desarrollador de Software</title>
+      <link>https://ivansabart.github.io/my_launchx_blog/posts/intro/</link>
+      <pubDate>Thu, 21 Apr 2022 18:16:21 -0600</pubDate>
+      
+      <guid>https://ivansabart.github.io/my_launchx_blog/posts/intro/</guid>
+      <description>¡Hola!
+Para mí la cultura de un profesional del software se basa en lo siguiente:
+Valores:
+ Empatía Gratitud Humildad Responsabilidad Solidaridad Respeto Confianza Honestidad Dedicación  Prácticas:
+ DRY (Don&amp;rsquo;t repeat yourself): Evitar errores de código cuando se reutiliza más de lo necesario. Enfocarse en lo que quiere el cliente: evitar ser demasiado técnico y ser conciente de lo que el cliente desea y ajustarse a sus necesidades y presupuesto.</description>
+    </item>
+    
+    <item>
       <title>Mi ruta de aprendizaje en Launch X</title>
       <link>https://ivansabart.github.io/my_launchx_blog/posts/post_1/</link>
       <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
@@ -16,19 +29,6 @@
       <description>¡Hola! Quiero contarte todo lo que he aprendido en este camino:
  Python Lógica de programación Jupyter Notebooks Command Line Git GitHub HTML JavaScript Node JS  Lo que me ha gustado más:
  La oportunidad que ofrecen La estructura de todos los módulos El seguimiento con Lives El espacio para dudas La energía tan positiva y motivación Que compartan conocimiento porque me encanta aprender  Lo que más me ha parecido difícil:</description>
-    </item>
-    
-    <item>
-      <title>La Cultura de un Desarrollador de Software</title>
-      <link>https://ivansabart.github.io/my_launchx_blog/posts/intro/</link>
-      <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
-      
-      <guid>https://ivansabart.github.io/my_launchx_blog/posts/intro/</guid>
-      <description>¡Hola!
-Para mí la cultura de un profesional del software se basa en lo siguiente:
-Valores:
- Empatía Gratitud Humildad Responsabilidad Solidaridad Respeto Confianza Honestidad Dedicación  Prácticas:
- DRY (Don&amp;rsquo;t repeat yourself): Evitar errores de código cuando se reutiliza más de lo necesario. Enfocarse en lo que quiere el cliente: evitar ser demasiado técnico y ser conciente de lo que el cliente desea y ajustarse a sus necesidades y presupuesto.</description>
     </item>
     
   </channel>
